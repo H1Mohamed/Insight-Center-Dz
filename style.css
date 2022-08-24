@@ -1,0 +1,109 @@
+
+#ICText{
+	text-align: center;
+	font-size: 70px;
+
+}
+#ItallStartstext{
+	text-align: center;
+	font-size: 35;
+	margin: 0 auto;
+	text-decoration: none;
+}
+#LeftSect{
+	background-color: rgb(78,169,200);
+	width: 100%;
+	height: min-content;
+	border-radius: 10px;
+	box-shadow: 0 4px 4px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 4px rgba(0, 0, 0, 0.19);
+}
+#LeftSectTitle{
+	padding-top: 10px;
+	padding-left: 50px;
+	text-align: center;
+}
+#LeftSectText{
+	padding-left: 50px;
+	padding-right: 400px;
+	padding-bottom: 20px;
+} 	
+#RightSect{
+	background-color: hsl(195, 53%, 55%);
+	width: 100%;
+	height: min-content;
+	border-radius: 10px;
+	box-shadow: 0 4px 4px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 4px rgba(0, 0, 0, 0.19);
+}
+#RightSectTitle{
+	padding-top: 10px;
+	padding-right: 150px;
+	padding-left: 50px;
+	text-align: center;
+}
+#RightSectText{
+	padding-left: clamp(0px,500px,1000px);
+	padding-right:50px;
+	padding-bottom:10px;
+	text-align: right;
+} 
+#ZZIMainTitle{
+	text-align: center;
+	background-color: hsl(195, 53%, 55%);
+	height: min-content;
+	width: max-content;
+	margin: 0 auto;
+	padding-right: 20px;
+	padding-left: 20px;
+	border-radius: 30px;
+	margin-top: calc(+15px);
+	text-decoration: none;
+	box-shadow: 0 4px 4px 4px hsla(0, 0%, 0%, 0.2), 0 6px 20px 4px hsla(0, 0%, 0%, 0.19);
+}
+#LongIntroQ{
+	text-align: center;
+	background-color: hsl(195, 53%, 55%);
+	height: min-content;
+	width: clamp(200px,400px,500px);
+	margin: 0 auto;
+	margin-bottom: 20px;
+	border-radius: 30px;
+	box-shadow: 0 4px 4px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 4px rgba(0, 0, 0, 0.19);
+}
+#LongIntroText{
+	text-align: center;
+	background-color: hsl(195, 53%, 55%);
+	height: max-content;
+	width: 700px;
+	min-width: 100px;
+	max-width: 1000px;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-right: 10px;
+	border-radius: 30px;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	margin: 0 auto;
+	box-shadow: 0 4px 4px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 4px rgba(0, 0, 0, 0.19);
+}
+footer{
+	background-color: black;
+	height: max-content;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	border-radius: 10px;
+	color:white;
+	margin: 0 auto;
+	box-shadow: 0 4px 4px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 4px rgba(0, 0, 0, 0.19);
+	width: clamp(100%,100%,100%);
+}
+#footerText{
+	text-align: center;
+	color: white;
+	font-size: 15px;
+	bottom: 5px;
+	/*position: absolute;*/
+}
+
+
+
